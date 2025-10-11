@@ -1,18 +1,18 @@
-# javascript-projects-20-days
-My hands-on JavaScript portfolio: 20 beginner-friendly projects in 20 days using HTML, CSS, and vanilla JS.
 # JavaScript Projects - 20 Days
 
-My hands-on JavaScript portfolio: 20 beginner-friendly projects in 20 days using HTML, CSS, and vanilla JS.
+Welcome to my portfolio! I'm Suraj Waghmare, a passionate developer who built these 20 JavaScript projects in 20 days to improve my skills. Below are the links to each of the projects I created using HTML, CSS, and vanilla JavaScript.
 
-Each project is stored in its own folder, and you can view them by clicking on the links below:
+These projects cover a wide range of topics and showcase my problem-solving skills and creativity.
+
+Feel free to check out my other projects or contact me if you'd like to collaborate!
 
 ## Projects
 
-1. [Project 1 - **Project Name**](./Project-1-Stopwatch-Timer-Application/)
-2. [Project 2 - **Project Name**](./Project-2-Vowel-Counter/)
-3. [Project 3 - **Project Name**](./Project-3-Poll-System-Application/)
-4. [Project 4 - **Project Name**](./Project-4-Random-Password-Generator/)
-5. [Project 5 - **Project Name**](./Project-5-Cash-Calculator-Application/)
+1. [Project 1 - **Stopwatch Timer Application**](https://surajw141.github.io/javascript-projects-20-days/Project-1-Stopwatch-Timer-Application/)
+2. [Project 2 - **Vowel Checker Application**](https://surajw141.github.io/javascript-projects-20-days/Project-2-Vowel-Counter-Application/)
+3. [Project 3 - **Poll System Application**](https://surajw141.github.io/javascript-projects-20-days/Project-3-Poll-System-Application/)
+4. [Project 4 - **Generate Random Password Application**](https://surajw141.github.io/javascript-projects-20-days/Project-4-Random-Password-Generator-Application/)
+5. [Project 5 - **Cash Calculator Application**](https://surajw141.github.io/javascript-projects-20-days/Project-5-Cash-Calculator-Application/)
 6. [Project 6 - **Project Name**](./project-6-folder/)
 7. [Project 7 - **Project Name**](./project-7-folder/)
 8. [Project 8 - **Project Name**](./project-8-folder/)
@@ -35,4 +35,4 @@ Each project is stored in its own folder, and you can view them by clicking on t
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/javascript-projects-20-days.git
+   https://github.com/surajw141/javascript-projects-20-days.git
