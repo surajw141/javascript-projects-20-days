@@ -1,10 +1,10 @@
-# javascript-projects-20-days
-My hands-on JavaScript portfolio: 20 beginner-friendly projects in 20 days using HTML, CSS, and vanilla JS.
 # JavaScript Projects - 20 Days
 
-My hands-on JavaScript portfolio: 20 beginner-friendly projects in 20 days using HTML, CSS, and vanilla JS.
+Welcome to my portfolio! I'm Suraj Waghmare, a passionate developer who built these 20 JavaScript projects in 20 days to improve my skills. Below are the links to each of the projects I created using HTML, CSS, and vanilla JavaScript.
 
-Each project is stored in its own folder, and you can view them by clicking on the links below:
+These projects cover a wide range of topics and showcase my problem-solving skills and creativity.
+
+Feel free to check out my other projects or contact me if you'd like to collaborate!
 
 ## Projects
 
