@@ -13,7 +13,7 @@ Feel free to check out my other projects or contact me if you'd like to collabor
 3. [Project 3 - **Poll System Application**](https://surajw141.github.io/javascript-projects-20-days/Project-3-Poll-System-Application/)
 4. [Project 4 - **Generate Random Password Application**](https://surajw141.github.io/javascript-projects-20-days/Project-4-Random-Password-Generator-Application/)
 5. [Project 5 - **Cash Calculator Application**](https://surajw141.github.io/javascript-projects-20-days/Project-5-Cash-Calculator-Application/)
-6. [Project 6 - **Project Name**](./project-6-folder/)
+6. [Project 6 - **Generate Random Password Application**]()
 7. [Project 7 - **Project Name**](./project-7-folder/)
 8. [Project 8 - **Project Name**](./project-8-folder/)
 9. [Project 9 - **Project Name**](./project-9-folder/)
