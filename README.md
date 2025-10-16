@@ -15,7 +15,7 @@ Feel free to check out my other projects or contact me if you'd like to collabor
 5. [Project 5 - **Cash Calculator Application**](https://surajw141.github.io/javascript-projects-20-days/Project-5-Cash-Calculator-Application/)
 6. [Project 6 - **Random Color Generator**](https://surajw141.github.io/javascript-projects-20-days/Project-6-Random-Color-Generator-Application)
 7. [Project 7 - **Notes Taking Application**](https://surajw141.github.io/javascript-projects-20-days/Project-7-Notes-Taking-Application-Like-Sticky-Notes)
-8. [Project 8 - **Project Name**](./project-8-folder/)
+8. [Project 8 - **Dictionary Application**](https://surajw141.github.io/javascript-projects-20-days/Project-8-Dictionary-Application)
 9. [Project 9 - **Project Name**](./project-9-folder/)
 10. [Project 10 - **Project Name**](./project-10-folder/)
 11. [Project 11 - **Project Name**](./project-11-folder/)
