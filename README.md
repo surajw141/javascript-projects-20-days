@@ -18,7 +18,7 @@ Feel free to check out my other projects or contact me if you'd like to collabor
 8. [Project 8 - **Dictionary Application**](https://surajw141.github.io/javascript-projects-20-days/Project-8-Dictionary-Application)
 9. [Project 9 - **Text Animation**](https://surajw141.github.io/javascript-projects-20-days/Project-9-Text-Animation)
 10. [Project 10 - **Scrollwheel of Mouse**](https://surajw141.github.io/javascript-projects-20-days/Project-10-Mouse-Wheel-Zoom-In-Out-Application)
-11. [Project 11 - **Project Name**](./project-11-folder/)
+11. [Project 11 - **Random Paragraph Generator**](https://surajw141.github.io/javascript-projects-20-days/Project-11-Random-Paragraph-Generator)
 12. [Project 12 - **Project Name**](./project-12-folder/)
 13. [Project 13 - **Project Name**](./project-13-folder/)
 14. [Project 14 - **Project Name**](./project-14-folder/)
