@@ -20,7 +20,7 @@ Feel free to check out my other projects or contact me if you'd like to collabor
 10. [Project 10 - **Scrollwheel of Mouse**](https://surajw141.github.io/javascript-projects-20-days/Project-10-Mouse-Wheel-Zoom-In-Out-Application)
 11. [Project 11 - **Random Paragraph Generator**](https://surajw141.github.io/javascript-projects-20-days/Project-11-Random-Paragraph-Generator)
 12. [Project 12 - **Loan Calculator**](https://surajw141.github.io/javascript-projects-20-days/Project-12-Loan-Calculator)
-13. [Project 13 - **Project Name**](./project-13-folder/)
+13. [Project 13 - **Tip Calculator**](https://surajw141.github.io/javascript-projects-20-days/Project-13-Tip-Calculator)
 14. [Project 14 - **Project Name**](./project-14-folder/)
 15. [Project 15 - **Project Name**](./project-15-folder/)
 16. [Project 16 - **Project Name**](./project-16-folder/)
