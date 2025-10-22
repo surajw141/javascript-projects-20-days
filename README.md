@@ -22,7 +22,7 @@ Feel free to check out my other projects or contact me if you'd like to collabor
 12. [Project 12 - **Loan Calculator**](https://surajw141.github.io/javascript-projects-20-days/Project-12-Loan-Calculator)
 13. [Project 13 - **Tip Calculator**](https://surajw141.github.io/javascript-projects-20-days/Project-13-Tip-Calculator)
 14. [Project 14 - **Digital Clock Application**](https://surajw141.github.io/javascript-projects-20-days/Project-14-Digital-Clock)
-15. [Project 15 - **Project Name**](./project-15-folder/)
+15. [Project 15 - **Project Name**](https://surajw141.github.io/javascript-projects-20-days/Project-15-Expense Tracker Application)
 16. [Project 16 - **Project Name**](./project-16-folder/)
 17. [Project 17 - **Project Name**](./project-17-folder/)
 18. [Project 18 - **Project Name**](./project-18-folder/)
