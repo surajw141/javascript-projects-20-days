@@ -25,7 +25,7 @@ Feel free to check out my other projects or contact me if you'd like to collabor
 15. [Project 15 - **Expense Tracker Application**](https://surajw141.github.io/javascript-projects-20-days/Project-15-Expense-Tracker-Application)
 16. [Project 16 - **Fixed Deposit Calculator**](https://surajw141.github.io/javascript-projects-20-days/Project-16-Fixed-Deposit-Calculator-Application)
 17. [Project 17 - **Simple To Do List**](https://surajw141.github.io/javascript-projects-20-days/Project-17-To-Do-List-Application)
-18. [Project 18 - **Project Name**](./project-18-folder/)
+18. [Project 18 - **BMI Calculator**](https://surajw141.github.io/javascript-projects-20-days/Project-18-BMI-Calculator)
 19. [Project 19 - **Project Name**](./project-19-folder/)
 20. [Project 20 - **Project Name**](./project-20-folder/)
 
