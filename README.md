@@ -27,7 +27,7 @@ Feel free to check out my other projects or contact me if you'd like to collabor
 17. [Project 17 - **Simple To Do List**](https://surajw141.github.io/javascript-projects-20-days/Project-17-To-Do-List-Application)
 18. [Project 18 - **BMI Calculator**](https://surajw141.github.io/javascript-projects-20-days/Project-18-BMI-Calculator)
 19. [Project 19 - **Time and Date Widget**](https://surajw141.github.io/javascript-projects-20-days/Project-19-Timer-and-Date-Widget)
-20. [Project 20 - **Project Name**](./project-20-folder/)
+20. [Project 20 - **Age Calculator**](https://surajw141.github.io/javascript-projects-20-days/Project-20-Age-Calculator)
 
 ---
 
